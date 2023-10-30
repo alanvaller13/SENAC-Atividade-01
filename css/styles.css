@@ -1,0 +1,18 @@
+.containers {
+    position: relative;
+    background-color: rgb(232, 241, 241);
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    width: 300px;
+    height: 470px;
+    box-shadow: 18px 31px #98808050,
+        -18px -18px 31px #fdd5d527;
+        margin-left: auto;
+    margin-top: 10px;
+    margin-right: auto;
+    }
+
+   .btn{
+         resize: none;
+    }
